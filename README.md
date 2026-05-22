@@ -1,13 +1,18 @@
 Student Management System (Console)
 
+
 A terminal-based Java application for managing student records with secure cloud integration.
 
-Prerequisites
+
+Prerequisites:
+
 JDK: 17 or higher
 
 Internet: Required for cloud database connectivity
 
-Console-Based System Features
+
+Console-Based System Features:
+
 
 Direct Terminal Interaction: Fast, command-driven CRUD (Create, Read, Update, Delete) operations.
 
