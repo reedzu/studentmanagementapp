@@ -8,6 +8,7 @@ JDK: 17 or higher
 Internet: Required for cloud database connectivity
 
 Console-Based System Features
+
 Direct Terminal Interaction: Fast, command-driven CRUD (Create, Read, Update, Delete) operations.
 
 Persistent Storage: Reliable cloud database integration for record management.
